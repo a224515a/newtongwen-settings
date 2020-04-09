@@ -1,55 +1,71 @@
+
 {
     "version": "1.0.5.1",
     "autoConvert": "none",
     "iconAction": "auto",
     "symConvert": true,
     "inputConvert": "none",
-    "fontCustom": {
+    "fontCustom":
+    {
         "enable": false,
         "trad": "微軟正黑體, PMingLiU,MingLiU, 新細明體, 細明體",
         "simp": "MS Song, 宋体, SimSun"
     },
-    "urlFilter": {
+    "urlFilter":
+    {
         "enable": true,
-        "list": [{
+        "list": [
+            {
                 "url": "http://www.angular.live/*",
                 "zhflag": "trad"
-            }, {
+            },
+            {
                 "url": "https://angular.cn/*",
                 "zhflag": "trad"
-            }, {
+            },
+            {
                 "url": "http://es6.ruanyifeng.com/*",
                 "zhflag": "trad"
-            }, {
+            },
+            {
                 "url": "http://www.angular.live/*",
                 "zhflag": "trad"
-            }, {
+            },
+            {
                 "url": "http://angular.live/*",
                 "zhflag": "trad"
-            }, {
+            },
+            {
                 "url": "http://es6.ruanyifeng.com/*",
                 "zhflag": "trad"
-            }, {
+            },
+            {
                 "url": "http://ke.mtedu.com/*",
                 "zhflag": "trad"
-            }, {
+            },
+            {
                 "url": "http://v3.bootcss.com/*",
                 "zhflag": "trad"
-            }, {
+            },
+            {
                 "url": "https://v3.bootcss.com/*",
                 "zhflag": "trad"
-            }, {
+            },
+            {
                 "url": "http://www.jquery123.com/*",
                 "zhflag": "trad"
-            }, {
+            },
+            {
                 "url": "https://jimmysong.io/*",
                 "zhflag": "trad"
             }
         ]
     },
-    "userPhrase": {
+    "userPhrase":
+    {
         "enable": true,
-        "trad": {
+        "trad":
+        {
             "文檔": "文件",
             "應用程序": "應用程式",
             "服務端": "伺服器端",
@@ -150,7 +166,7 @@
             "回調": "callback",
             "鼠標": "滑鼠",
             "擴展": "擴充",
-			"安裝拓展": "安裝外掛",
+            "安裝拓展": "安裝外掛",
             "集群": "叢集",
             "博客": "部落格",
             "內置": "內建",
@@ -258,14 +274,17 @@
             "用戶": "使用者",
             "變量": "變數",
             "視頻": "影片",
-            "窗口": "視窗"
+            "窗口": "視窗",
+            "打印数据 ": "列印資料"
         },
         "simp": {}
     },
-    "contextMenu": {
+    "contextMenu":
+    {
         "enable": true
     },
-    "symbolS2T": {
+    "symbolS2T":
+    {
         "·": "‧",
         "―": "─",
         "‖": "∥",
@@ -296,7 +315,8 @@
         "〖": "【",
         "〗": "】"
     },
-    "symbolT2S": {
+    "symbolT2S":
+    {
         "¯": "ˉ",
         "‥": "¨",
         "‧": "·",
